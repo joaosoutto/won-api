@@ -1,3 +1,4 @@
-# Strapi application
+# Won Games API
 
-A quick description of your strapi application
+API created for the project Won Games.
+Created with Strapi.
